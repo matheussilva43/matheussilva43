@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/matheus_msp1)](https://twitter.com/matheus_msp1)
 
 ### Sobre mim
+Sou um desenvolvedor full stack com experiência sólida na criação de aplicações web.
+Minha atuação é focada em inovação, otimização de sistemas e boas práticas de desenvolvimento, utilizando metodologias ágeis como Scrum e Kanban. Tenho experiência no setor educacional, engenharia e e-commerce, sempre buscando eficiência e alta qualidade nas entregas.
 
-Sou um desenvolvedor de backend, frontend e mobile
 
 ### Desenvolvendo :man_technologist:
 
